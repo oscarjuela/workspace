@@ -1,0 +1,32 @@
+Cursos
+
+https://www.udemy.com/
+Con certificado https://www.udemy.com/course/python-sin-fronteras-html-css-mysql
+Sin Certificado https://utpl-my.sharepoint.com/:u:/g/personal/dmsaavedra3_utpl_edu_ec/ET362mbvnNpJrYLxC60UImgBDYC5owjLT_STrQJBoLvR_Q?e=u1XOxT
+
+Repositorio Digital
+www.github.com
+Repositorio del Curso https://github.com/5t4t1ck/Curso-Python-Mar-2022
+
+Manuales
+Apuntes de Majo Ledesma https://losapuntesdemajo.vercel.app/
+
+Ejercicios
+Ejercicios de Programación con Python https://aprendeconalf.es/docencia/python/ejercicios/
+
+Links de Interes
+
+PEP 8 -- Style Guide for Python Code https://www.python.org/dev/peps/pep-0008/
+
+Python PEP8: Escribiendo Código Fácil de Leer https://ellibrodepython.com/python-pep8
+
+PEP 20 – El Zen de Python https://elpythonista.com/zen-de-python
+
+Aprender Ingles https://www.duolingo.com/learn
+
+Perfil del Instructor https://5t4t1ck.github.io/
+
+Operaciones con Listas
+
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-7/listas
+Operaciones sobre listas en Python https://medium.com/@hgodinez89/operaciones-sobre-listas-en-python-c19853a9d07b
